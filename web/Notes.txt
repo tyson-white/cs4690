@@ -1,0 +1,13 @@
+Not finished:
+
+5. Modal with progress bar instead of set time, fill progress bar as each student is loaded
+9. Get the students on the different pages? Is this needed??
+
+
+Bugs:
+
+Delete, Edit: Ajax is calling more than once.
+    - needs work on ids (need to be unique)
+    
+Edit Button: After the first edit, second time you click edit the form isn't filled out.
+    - needs work on ids (need to be unique)
